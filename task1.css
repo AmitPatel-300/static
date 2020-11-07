@@ -1,0 +1,205 @@
+#main {
+	width: 1340px;
+	height: 1050px;
+	background-color: white;
+}
+
+header {
+	width: auto;
+	height: 100px;
+	background-color: black;
+	font-family: sans-serif;
+	margin-bottom: 0px;
+}
+
+#name {
+	padding-top: 5px;
+	color: white;
+	font-size: 30px;
+	font-weight: bold;
+	margin-bottom: 0px;
+	float: left;
+}
+
+#val {
+	color: orange;
+	font-size: 30px;
+	font-weight: bold;
+	margin: 0px;
+	padding-top: 20px;
+	font-size: 55px;
+}
+
+nav {
+	width: auto;
+	height: 40px;
+	background-color: #3E3B3B;
+	font-family: sans-serif;
+	margin-top: 0px;
+}
+
+ul {
+	height: 40px;
+	padding-left: 0px;
+	margin-top: 0px;
+}
+
+hr {
+	width: 970px;
+	float: left;
+}
+
+a {
+	text-decoration: none;
+}
+
+nav li {
+	float: left;
+	width: 80px;
+	height: 28px;
+	margin: 0px;
+	padding-top: 10px;
+	border-right: 1px solid black;
+	list-style-type: none;
+	text-align: center;
+}
+
+ul li a {
+	text-decoration: none;
+	color: white;
+}
+
+section {
+	width: 1340px;
+	height: auto;
+	background-color: red;
+}
+
+#section {
+	width: 1000px;
+	height: 750px;
+	float: left;
+}
+
+#con-1 {
+	width: 1000px;
+	height: 250px;
+}
+
+#con-1 p {
+	padding-top: 15px;
+	margin-bottom: 0px;
+}
+
+#con-2 {
+	width: 1000px;
+	height: 250px;
+}
+
+#con-2 p {
+	padding-top: 15px;
+	margin-bottom: 0px;
+}
+
+#con-3 {
+	width: 1000px;
+	height: 250px;
+}
+
+#con-3 p {
+	padding-top: 15px;
+	margin-bottom: 0px;
+}
+
+img {
+	width: 250px;
+	height: 200px;
+	background-color: gray;
+	margin: 20px 20px 20px 20px;
+	float: left;
+}
+
+#item-2 {
+	width: 250px;
+	height: 200px;
+	background-color: gray;
+	margin: 20px 20px 20px 20px;
+	float: left;
+}
+
+#item-3 {
+	width: 250px;
+	height: 200px;
+	background-color: gray;
+	margin: 20px 20px 20px 20px;
+	float: left;
+}
+
+#aside {
+	width: 340px;
+	height: 910px;
+	float: right;
+	background-color: #9B9796;
+}
+
+footer {
+	background-color: #3E3B3B;
+	height: 60px;
+	width: 1340px;
+	padding-top: 35px;
+	text-align: center;
+	color: white;
+	font-size: 13px;
+}
+
+.hr {
+	border-bottom: 1px solid black;
+	padding-top: 80px;
+	width: 980px;
+}
+
+.hr2 {
+	border-bottom: 1px solid black;
+	width: 310px;
+	margin-left: 10px;
+}
+
+#foot {
+	color: orange;
+}
+
+.foot {
+	color: orange;
+}
+
+#link {
+	color: orange;
+}
+
+.link {
+	color: orange;
+}
+
+.head {
+	font-size: 30px;
+	padding-left: 20px;
+}
+
+#dis {
+	font-size: 15px;
+	width: 500px;
+}
+
+#aside p {
+	margin-left: 10px;
+}
+
+#aside a {
+	text-decoration: none;
+}
+
+#aside hr {
+	width: 300px;
+	border-color: black;
+	margin-left: 10px;
+}
